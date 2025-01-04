@@ -2,7 +2,6 @@
 - 👀 I’m interested in Cloud security
 - 🌱 I’m currently learning Ethical Hacking and Python
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me on Twitter @THyamx 
 
 <!---
 HyamT/HyamT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
