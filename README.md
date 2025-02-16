@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HyamT
 - 👀 I’m interested in Data Science and Cyber Security
-- 🌱 I’m currently learning Ethical Hacking and Python
+- 🌱 I’m currently focussing on offensive ai 
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
