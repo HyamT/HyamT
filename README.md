@@ -3,6 +3,7 @@
 Cybersecurity Threat Analyst | Aspiring AI Engineer | Builder of Useful (and Weird) Things
 
 I’m currently a Threat Analyst at KnowBe4, where I work at the intersection of data, phishing, and AI. Outside of work, I’m obsessed with building tools that solve real-world problems — whether that’s helping vulnerable people navigate complex systems, summarizing cybersecurity research for execs, or experimenting with adversarial AI just for the fun of it.
+
 🧠 Interests
 
 - AI/ML (especially GenAI, NLP, and reinforcement learning)
